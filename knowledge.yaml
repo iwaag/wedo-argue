@@ -1,0 +1,9 @@
+# Who maintains this knowledge (archsage index/README.md, "Maintenance").
+schema: ag.knowledge.v1
+kind: wedo
+maintenance: project
+maintainer: ponderer
+note: |
+  Written by ponderer's runs from its discussions, their evaluations and
+  study-argue. A run of ponderer adopts a revision by moving its pin
+  (wedo/wedo-argue in pj-ponderer). Recorded 2026-10-21 (argue p4 ex1).
