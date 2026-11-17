@@ -9,7 +9,7 @@ references:
   - {role: evidence, ref: "ponderer@042714c:episodes/argue-p4.md", note: "second case: conductor #240 said a report was on branch for jevlab/experiment/run-003 that --integration showed integrated one second earlier"}
   - {role: evidence, ref: "ponderer@a1fdab5:knowledge/artifact-claims.md", note: "first statement, from the argue p3 ex1 case where three owners said not on main of runs the executor had integrated"}
   - {role: context, ref: "jevlab/experiment/run-003", note: "the run of the second case"}
-  - {role: unchecked, ref: "devdocs episodes/argue/p3/ex1/report4 (rts-vs-bot/improve-game/run-007, jevlab/experiment/run-002)", note: "the p3 ex1 report named in the body; not read again for this header"}
+  - {role: unchecked, ref: "argue p3 ex1 report4 (an internal report, not published)", note: "the first-case report named in the body; not read again for this header"}
 ---
 # Integration claims name their observation
 
@@ -20,9 +20,8 @@ observation and time it rests on. Several agents repeating one claim are
 one source.
 
 **Sources.** argue p3 ex1 report4: three owners said "not on main" of
-`rts-vs-bot/improve-game/run-007` and `jevlab/experiment/run-002`, which
-the executor had integrated; the coordinator workspaces had not followed
-`origin/main`. No reviewer caught it.
+two runs of other projects that the executor had integrated; the
+coordinator workspaces had not followed `origin/main`. No reviewer caught it.
 
 **Second trial (argue p4, `ponderer@042714c:episodes/argue-p4.md`).** The
 conductor's #240 said a report was "on branch" for `jevlab/experiment/run-003`
